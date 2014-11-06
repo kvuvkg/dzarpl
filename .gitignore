@@ -1,0 +1,7 @@
+*.exe
+*.obj
+*.dbf
+*.properties
+BAZA/*
+BAZA-OLD/*
+WORK/*
